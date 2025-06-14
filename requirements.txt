@@ -1,31 +1,27 @@
 # Plant Disease Detection System - Production Requirements
 
 # Core ML libraries (CPU optimized for deployment)
-torch==2.1.0+cpu
-torchvision==0.16.0+cpu
---find-links https://download.pytorch.org/whl/torch_stable.html
+torch>=2.0.0
+torchvision>=0.15.0
 
 # Image processing
-Pillow==10.1.0
-numpy==1.24.3
+Pillow>=10.0.0
+numpy>=1.24.0
 
 # Data processing
-pandas==2.0.3
-scikit-learn==1.3.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
 
 # Web application
-streamlit==1.28.1
-plotly==5.17.0
+streamlit>=1.28.0
+plotly>=5.15.0
 
 # Progress bars and utilities
-tqdm==4.66.1
+tqdm>=4.65.0
 
 # Production optimizations
-gunicorn==21.2.0
-watchdog==3.0.0
+gunicorn>=21.0.0
+watchdog>=3.0.0
 
 # Error handling and logging
-loguru==0.7.2
-
-# File handling
-pathlib2==2.3.7
+loguru>=0.7.0
