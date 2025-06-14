@@ -2,6 +2,11 @@
 
 ## 🚀 Quick Start
 
+
+### Visit the Online Demo
+You can use the Plant Disease Detection system instantly in your browser:  
+[https://plant-disease-det.streamlit.app/](https://plant-disease-det.streamlit.app/)
+
 ### Local Development
 ```bash
 # Install dependencies
