@@ -1,4 +1,5 @@
 # Plant Disease Detection System - Production Requirements
+# Updated for Streamlit Cloud compatibility
 
 # Core ML libraries (CPU optimized for deployment)
 torch>=2.0.0
