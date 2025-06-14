@@ -1073,8 +1073,8 @@ def main():
         st.markdown("---")
         st.markdown(
             "<div style='text-align: center; color: #666;'>"
-            "🌱 Plant Disease Detection System | Powered by EfficientNet & Streamlit<br>"
-            "Made with ❤️ for sustainable agriculture"
+            
+            "Made with ❤️ by Rajdeep Roy for sustainable agriculture"
             "</div>", 
             unsafe_allow_html=True
         )
