@@ -1074,7 +1074,7 @@ def main():
         st.markdown(
             "<div style='text-align: center; color: #666;'>"
             
-            "Made with ❤️ by Rajdeep Roy for sustainable agriculture"
+            "Made with ❤️ by Atharva Vaishampayan for sustainable agriculture"
             "</div>", 
             unsafe_allow_html=True
         )
